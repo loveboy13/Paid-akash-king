@@ -1,4 +1,5 @@
-
+# pass
+user & pass : connect me https://www.facebook.com/Akashmia15
 # installation
 $pkg update -y
 
